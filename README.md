@@ -1,3 +1,5 @@
+[![Math-Util wit CI | © 2021 by lmk.kuroshi](https://github.com/lmk-kuroshi/math-util/actions/workflows/math-util-ci.yml/badge.svg)](https://github.com/lmk-kuroshi/math-util/actions/workflows/math-util-ci.yml)
+
 # Welcome to Math-Util Repository
 
 ### You will find in this repo following stuff:
